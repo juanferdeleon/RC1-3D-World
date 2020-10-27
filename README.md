@@ -12,5 +12,5 @@ Luego ejecute el archivo [Raycaster.py](/Raycaster.py) dentro de cualquier IDE.
 Si lo ejecuta desde la linea de comandos:
 
 ```bash
-python Engine3D.py
+python Raycaster.py
 ```
