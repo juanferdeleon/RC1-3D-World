@@ -7,6 +7,12 @@
 
 Descargue el repositorio [RC1: 3D World](https://github.com/juanferdeleon/RC1-3D-World)
 
+Instale el archivo [requirements.txt](/requirements.txt) con el siguiente comando en la terminal.
+
+```bash
+pip install -r requirements.txt
+```
+
 Luego ejecute el archivo [Raycaster.py](/Raycaster.py) dentro de cualquier IDE.
 
 Si lo ejecuta desde la linea de comandos:
